@@ -2,4 +2,4 @@
 
 Full Fitted Q-Iteration Algorithm:
 1. 임의의 policy를 사용하여 dataset 을 모은다. 이때 state, action, 다음 state, reward를 logging 한다
-2. $$y_{i}$$ 
+2. \$y_{i}\$ 
